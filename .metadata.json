@@ -1,0 +1,10 @@
+[
+  {
+    "package": "datafsm",
+    "oncran": true
+  },
+  {
+    "package": "kayadata",
+    "oncran": true
+  }
+]

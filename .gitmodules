@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datafsm"]
+	path = datafsm
+	url = https://github.com/jonathan-g/datafsm
+	shallow = true
+	registered = true
+[submodule "kayadata"]
+	path = kayadata
+	url = https://github.com/jonathan-g/kayadata
+	shallow = true
+	registered = true
